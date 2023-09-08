@@ -1,4 +1,4 @@
-# 3DMPT
+# ACTracker (  Multi-person Tracking Method considering Appearance Changes )
 Tracking Multi-person with 3d representations
 
 1. Main branch : evlaluation code for PoseTrack18 and PoseTrack21 dataset each
