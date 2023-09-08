@@ -1,6 +1,8 @@
 # 3DMPT
 Tracking Multi-person with 3d representations
 
-1. PHALP + ByteTrack
+Main branch : evlaluation code for PoseTrack18 and PoseTrack21 dataset each
 
-2. PHALP' + ByteTrack + Deblur model
+PHALP + ByteTrack branch : 
+
+PHALP' + ByteTrack + Deblur model branch : 
