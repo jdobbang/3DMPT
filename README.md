@@ -5,4 +5,4 @@ Tracking Multi-person with 3d representations
    
 3. PHALP-model-base branch : PHALP + ByteTrack 
   
-5. PHALP' + ByteTrack + Deblur model branch : PHALP'+ByteTrack+Deblur 
+5. H4D-model-base branch : PHALP'+ByteTrack+Deblur 
