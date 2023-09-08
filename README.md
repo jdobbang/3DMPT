@@ -1,5 +1,4 @@
 # # ACTracker (  Multi-person Tracking Method considering Appearance Changes ) version 1.0
-Tracking Multi-person with 3d representations
 
 PHALP is from https://github.com/brjathu/PHALP
 
